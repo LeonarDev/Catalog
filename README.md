@@ -12,5 +12,3 @@ Written in C#.
 - Docker
 - Kubernetes
 - Unit Testing and TDD
-
-<!-- https://www.youtube.com/watch?v=ZXdFisA_hOY -->
